@@ -1,0 +1,330 @@
+campaignTrail_temp.election_json = [
+    {
+        "model": "campaign_trail.election",
+        "pk": 21,
+        "fields": {
+            "year": 2020,
+            "summary": "<p>After leaving office in 2021, Former President Donald Trump’s health has declined significantly and his plans for a political comeback are no longer viable, meaning an open field for the Republican nomination, whilst on the Democratic side, they seem hellbent on re-electing a senile man to the highest office in the nation.</p>",
+            "image_url": "https://file.garden/aQrk4ZgQJCx_hnkl/Florida/electionimage",
+            "winning_electoral_vote_number": 270,
+            "advisor_url": "https://www.jetsimon.com/public/static/images/dillon-stepien.jpg",
+            "recommended_reading": "<ul>\n<li><a href=https://www.chicagotribune.com/opinion/editorials/ct-edit-chicago-tribune-biden-endorsement-20200925-lnyxsb5qvrftnjjmj3rnzj33jy-story.html>Our Case For Joe Biden</a></li>\n<li><a href=https://nationalinterest.org/feature/case-trump-166808>The Case For Trump</a></li>\n<li><a href=https://www.npr.org/2020/11/18/935730100/how-biden-won-ramping-up-the-base-and-expanding-margins-in-the-suburbs>How Biden Won: Ramping Up The Base And Expanding Margins In The Suburbs</a></li>\n<li><a href=https://www.prospectmagazine.co.uk/politics/donald-trump-joe-biden-us-election-almost-win-votes-concede>Why Did Trump Almost Win?</a></li>\n<li><a href=https://www.hoover.org/research/no-evidence-voter-fraud-guide-statistical-claims-about-2020-election>No Evidence For Voter Fraud: A Guide To Statistical Claims About The 2020 Election</a></li>\n</ul>",
+            "has_visits": 1,
+            "no_electoral_majority_image": "https://www.jetsimon.com/public/static/images/2012-no-majority.jpg",
+            "creator": "Dan Bryan",
+            "display_year": "2024: Where Woke Goes to Die"
+        }
+    }
+]
+
+campaignTrail_temp.candidate_json = [
+    {
+        "model": "campaign_trail.candidate",
+        "pk": 300,
+        "fields": {
+            "first_name": "",
+            "last_name": "The Woke Mob",
+            "election": 21,
+            "party": "Democrat",
+            "state": "Hell",
+            "priority": 1,
+            "description": "",
+            "color_hex": "#004797",
+            "secondary_color_hex": "#90C0FF",
+            "is_active": 1,
+            "image_url": "https://file.garden/aQrk4ZgQJCx_hnkl/Florida/wokemob",
+            "electoral_victory_message": "",
+            "electoral_loss_message": "",
+            "no_electoral_majority_message": "",
+            "description_as_running_mate": "",
+            "candidate_score": 1,
+            "running_mate": false
+        }
+    },
+    {
+        "model": "campaign_trail.candidate",
+        "pk": 301,
+        "fields": {
+            "first_name": "Ron",
+            "last_name": "DeSantis",
+            "election": 21,
+            "party": "Republican",
+            "state": "Florida",
+            "priority": 2,
+            "description": "",
+            "color_hex": "#bb476b",
+            "secondary_color_hex": "#FFA0A0",
+            "is_active": 1,
+            "image_url": "https://file.garden/aQrk4ZgQJCx_hnkl/Florida/meatball",
+            "electoral_victory_message": "",
+            "electoral_loss_message": "",
+            "no_electoral_majority_message": "",
+            "description_as_running_mate": "",
+            "candidate_score": 1,
+            "running_mate": false
+        }
+    },
+    {
+        "model": "campaign_trail.candidate",
+        "pk": 302,
+        "fields": {
+            "first_name": "Jo",
+            "last_name": "Jorgensen",
+            "election": 21,
+            "party": "Libertarian",
+            "state": "South Carolina",
+            "priority": 3,
+            "description": "'",
+            "color_hex": "#FFFF00",
+            "secondary_color_hex": "#FFFFC0",
+            "is_active": 0,
+            "image_url": "'",
+            "electoral_victory_message": "'",
+            "electoral_loss_message": "'",
+            "no_electoral_majority_message": "'",
+            "description_as_running_mate": "'",
+            "candidate_score": 1,
+            "running_mate": false
+        }
+    },
+    {
+        "model": "campaign_trail.candidate",
+        "pk": 303,
+        "fields": {
+            "first_name": "Howie",
+            "last_name": "Hawkins/Other",
+            "election": 21,
+            "party": "Green",
+            "state": "New York",
+            "priority": 4,
+            "description": "'",
+            "color_hex": "#00C100",
+            "secondary_color_hex": "#A1FFA1",
+            "is_active": 0,
+            "image_url": "'",
+            "electoral_victory_message": "'",
+            "electoral_loss_message": "'",
+            "no_electoral_majority_message": "'",
+            "description_as_running_mate": "'",
+            "candidate_score": 1,
+            "running_mate": false
+        }
+    },
+    {
+        "model": "campaign_trail.candidate",
+        "pk": 304,
+        "fields": {
+            "first_name": "Kamala",
+            "last_name": "Harris",
+            "election": 21,
+            "party": "Democrat",
+            "state": "California",
+            "priority": 5,
+            "description": "'",
+            "color_hex": "#0000FF",
+            "secondary_color_hex": "#90C0FF",
+            "is_active": 0,
+            "image_url": "https://www.jetsimon.com/public/static/images/kamala-harris-2020.jpg",
+            "electoral_victory_message": "'",
+            "electoral_loss_message": "'",
+            "no_electoral_majority_message": "'",
+            "description_as_running_mate": "<p>Kamala Harris is a Senator from California who made her own run for President in 2020. She would be acceptable to moderates and financial supporters, has some appeal to progressives, and brings diversity to the ticket. She's not the preferred choice of most progressives.</p>",
+            "candidate_score": 0,
+            "running_mate": true
+        }
+    },
+    {
+        "model": "campaign_trail.candidate",
+        "pk": 310,
+        "fields": {
+            "first_name": "Nikki",
+            "last_name": "Haley",
+            "election": 21,
+            "party": "Republican",
+            "state": "South Carolina",
+            "priority": 11,
+            "description": "'",
+            "color_hex": "#FF0000",
+            "secondary_color_hex": "#FFA0A0",
+            "is_active": 0,
+            "image_url": "https://www.jetsimon.com/public/static/images/nikki-haley-2020.jpg",
+            "electoral_victory_message": "'",
+            "electoral_loss_message": "'",
+            "no_electoral_majority_message": "'",
+            "description_as_running_mate": "<p>Nikki Haley has served as the Governor of South Carolina, and as a UN Ambassador. She could help you moderate your image and try to close the female vote. Choosing her would probably lead to hard feelings between yourself and Pence, but would your voters care?</p>",
+            "candidate_score": 0,
+            "running_mate": true
+        }
+    },
+    {
+        "model": "campaign_trail.candidate",
+        "pk": 311,
+        "fields": {
+            "first_name": "Spike",
+            "last_name": "Cohen",
+            "election": 21,
+            "party": "Libertarian",
+            "state": "Maryland",
+            "priority": 12,
+            "description": "'",
+            "color_hex": "#FFFF00",
+            "secondary_color_hex": "#FFFFC0",
+            "is_active": 0,
+            "image_url": "'",
+            "electoral_victory_message": "'",
+            "electoral_loss_message": "'",
+            "no_electoral_majority_message": "'",
+            "description_as_running_mate": "'",
+            "candidate_score": 0,
+            "running_mate": true
+        }
+    },
+    {
+        "model": "campaign_trail.candidate",
+        "pk": 312,
+        "fields": {
+            "first_name": "Angela",
+            "last_name": "Walker",
+            "election": 21,
+            "party": "Green",
+            "state": "Wisconsin",
+            "priority": 13,
+            "description": "'",
+            "color_hex": "#00C100",
+            "secondary_color_hex": "#A1FFA1",
+            "is_active": 0,
+            "image_url": "'",
+            "electoral_victory_message": "'",
+            "electoral_loss_message": "'",
+            "no_electoral_majority_message": "'",
+            "description_as_running_mate": "'",
+            "candidate_score": 0,
+            "running_mate": false
+        }
+    }
+]
+
+campaignTrail_temp.running_mate_json = [
+    {
+        "model": "campaign_trail.running_mate",
+        "pk": 200,
+        "fields": {
+            "candidate": 300,
+            "running_mate": 304
+        }
+    },
+    {
+        "model": "campaign_trail.running_mate",
+        "pk": 206,
+        "fields": {
+            "candidate": 301,
+            "running_mate": 310
+        }
+    },
+    {
+        "model": "campaign_trail.running_mate",
+        "pk": 207,
+        "fields": {
+            "candidate": 302,
+            "running_mate": 311
+        }
+    }
+]
+
+campaignTrail_temp.credits = "OldBox"
+
+campaignTrail_temp.global_parameter_json = [
+    {
+        "model": "campaign_trail.global_parameter",
+        "pk": 1,
+        "fields": {
+            "vote_variable": 1.125,
+            "max_swing": 0.12,
+            "start_point": 0.94,
+            "candidate_issue_weight": 10,
+            "running_mate_issue_weight": 3,
+            "issue_stance_1_max": -0.71,
+            "issue_stance_2_max": -0.3,
+            "issue_stance_3_max": -0.125,
+            "issue_stance_4_max": 0.125,
+            "issue_stance_5_max": 0.3,
+            "issue_stance_6_max": 0.71,
+            "global_variance": 0.01,
+            "state_variance": 0.005,
+            "question_count": 25,
+            "default_map_color_hex": "#C9C9C9",
+            "no_state_map_color_hex": "#999999"
+        }
+    }
+]
+
+campaignTrail_temp.opponents_default_json = [
+    {
+        "election": 21,
+        "candidates": [
+            300,
+            301,
+            302,
+            303,
+            312
+        ]
+    }
+]
+
+campaignTrail_temp.opponents_weighted_json = [
+    {
+        "election": 21,
+        "candidates": [
+            300,
+            301,
+            302,
+            303,
+            312
+        ]
+    }
+]
+
+campaignTrail_temp.temp_election_list = [
+    {
+        "id": 21,
+        "year": 2020,
+        "is_premium": 0,
+        "display_year": "2024: Where Woke Goes to Die"
+    }
+]
+
+jet_data = {
+    "headerColor": "#454545",
+    "windowColor": "#454545",
+    "containerColor": "#454545",
+    "innerWindowColor": "#f2f2f2",
+    "bannerImageUrl": "https://file.garden/aQrk4ZgQJCx_hnkl/Florida/thebanner",
+    "backgroundImageUrl": "https://file.garden/aQrk4ZgQJCx_hnkl/Florida/background",
+    "endingTextColor": "#000000",
+    "customQuote": "",
+    "gameTitle": "WHERE WOKE GOES TO DIE"
+}
+
+//#startcode
+
+
+corrr = '\n              <h2>WHERE WOKE GOES TO DIE</h2>\n            ';
+
+
+nct_stuff.themes[nct_stuff.selectedTheme].coloring_title = "#454545";
+
+nct_stuff.themes[nct_stuff.selectedTheme].coloring_window = "#454545";
+
+document.getElementsByClassName("game_header")[0].style.backgroundColor = nct_stuff.themes[nct_stuff.selectedTheme].coloring_title;
+
+$("#game_window")[0].style.backgroundColor = nct_stuff.themes[nct_stuff.selectedTheme].coloring_window;
+
+$(".container")[0].style.backgroundColor = "#454545";
+
+document.getElementById("header").src = "https://file.garden/aQrk4ZgQJCx_hnkl/Florida/thebanner";
+
+document.body.background = "https://file.garden/aQrk4ZgQJCx_hnkl/Florida/background";
+
+document.head.innerHTML += "<style>#results_container {color:#000000;} .inner_window_w_desc {background-color:#f2f2f2!important;}</style>";
+
+//#endcode
